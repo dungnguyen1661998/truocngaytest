@@ -2,3 +2,56 @@
   background: red;
   height: auto;
 }
+.container-fluid .row7 .dung1 {
+  height: 200px;
+  background-image: url(jaycee.jpg);
+  background-size: 100% 100%;
+}
+.container-fluid .row7 .dung1 .row .container {
+  height: 200px;
+}
+.container-fluid .row7 .dung1 .row .container .row .dung3 {
+  height: 200px;
+}
+.container-fluid .row7 .dung1 .row .container .row .dung3 h3 {
+  color: white;
+}
+.container-fluid .row7 .dung1 .row .container .row .dung3 .khunganh {
+  height: 50px;
+  width: 50px;
+  float: left;
+  margin: 5px;
+  border-radius: 50%;
+}
+.container-fluid .row7 .dung1 .row .container .row .dung3 .khunganh img {
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+}
+.container-fluid .row7 .dung1 .row .container .row .dung2 {
+  height: 200px;
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+}
+.container-fluid .row7 .dung1 .row .container .row .dung2 h3 {
+  color: white;
+}
+.container-fluid .row7 .dung1 .row .container .row .dung2 p {
+  color: white;
+}
+.container-fluid .row7 .dung1 .row .container .row .dung4 {
+  height: 200px;
+}
+.container-fluid .row7 .dung1 .row .container .row .dung4 h3 {
+  color: white;
+}
+.container-fluid .row7 .dung1 .row .container .row .dung4 span {
+  color: white;
+}
+.container-fluid .row7 .dung1 .row .container .row .dung4 p {
+  color: white;
+}
+.container-fluid .row8 .end {
+  height: 50px;
+  background: silver;
+}

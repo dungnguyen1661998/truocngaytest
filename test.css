@@ -2,3 +2,12 @@
   background: red;
   height: auto;
 }
+.container-fluid .slide-show {
+  width: 70%;
+  height: 500px;
+  position: relative;
+  margin: 0 auto;
+}
+.container-fluid .slide-show img {
+  height: 500px;
+}

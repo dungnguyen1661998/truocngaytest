@@ -2,3 +2,101 @@
   background: red;
   height: auto;
 }
+#box1 {
+  background: #ddd;
+  float: left;
+  width: 98.8%;
+  height: 100px;
+  position: fixed;
+}
+#box1 #pic1 {
+  width: 60px;
+  height: 60px;
+  float: left;
+  margin: 20px 35px 0px 70px;
+}
+#box1 #pic2 {
+  float: left;
+  width: 25px;
+  height: 25px;
+  margin: 15px 0px 0px 170px;
+}
+#box1 #pic3 {
+  float: left;
+  width: 15px;
+  height: 15px;
+  margin: 10px 0px 0px 85px;
+}
+#box1 #chu1 {
+  display: block;
+  height: 15px;
+  line-height: 15px;
+  margin: 10px 0px 0px 5px;
+  float: left;
+  color: #CC9900;
+  font-family: arial;
+  font-size: 15px;
+}
+#menu1 {
+  float: left;
+  height: 34px;
+  margin: 33px 0px 0px 0px;
+  padding: 0;
+  list-style-type: none;
+}
+#li1 {
+  height: 34px;
+  line-height: 34px;
+  display: block;
+  float: left;
+  text-align: center;
+  margin: 0px 15px;
+}
+#li1 #link2 {
+  height: 34px;
+  line-height: 34px;
+  display: block;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  color: blue;
+  font-weight: bolder;
+  font-family: arial;
+  font-size: 16px;
+}
+#li1 #link2:hover {
+  color: #CC9900;
+  border-bottom: 2px solid #CC9900;
+}
+#menu1-1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: none;
+}
+#menu1-1 #li1-1 {
+  float: left;
+  width: 100px;
+  height: 33px;
+  line-height: 33px;
+  display: block;
+}
+#menu1-1 #li1-1 #link4 {
+  float: left;
+  color: blue;
+  font-size: 16px;
+  text-align: center;
+  display: block;
+  font-family: arial;
+  font-weight: bolder;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+#menu1-1 #li1-1 #link4:hover {
+  color: #CC9900;
+  border-bottom: 2px solid #CC9900;
+}
+#li1:hover #menu1-1 {
+  display: block;
+}
